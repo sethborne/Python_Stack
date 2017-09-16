@@ -11,4 +11,3 @@ def sayHello(name):
 print 'Outside of the function'
 
 sayHello("Seth")
-
