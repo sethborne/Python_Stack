@@ -14,7 +14,7 @@ def typeList(inputList):
             countStrInList += 1
             
     listLength = len(inputList)
-    print listLength
+    # print listLength
     if countIntInList == listLength:
         # print "hey"
         print "The List You Entered is of Integer Type"
